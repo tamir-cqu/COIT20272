@@ -525,8 +525,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l-_bVykXCydRu9OqBGi1-87" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="m2XtmvnmR1rNF8-piuuE-239" vertex="1" connectable="0">
-          <mxGeometry x="-0.845" y="-2" relative="1" as="geometry">
+        <mxCell id="xHV70HQynk23bOm1dlsy-115" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="m2XtmvnmR1rNF8-piuuE-239">
+          <mxGeometry x="0.4974" y="-19" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHV70HQynk23bOm1dlsy-116" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="m2XtmvnmR1rNF8-piuuE-239">
+          <mxGeometry x="-0.8931" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
