@@ -334,13 +334,19 @@
         <mxCell id="m2XtmvnmR1rNF8-piuuE-159" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;exitDx=0;exitDy=0;" parent="1" source="m2XtmvnmR1rNF8-piuuE-74" target="m2XtmvnmR1rNF8-piuuE-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m2XtmvnmR1rNF8-piuuE-310" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToOne;endFill=0;" parent="1" source="m2XtmvnmR1rNF8-piuuE-160" target="m2XtmvnmR1rNF8-piuuE-291" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m2XtmvnmR1rNF8-piuuE-310" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToOne;endFill=0;exitX=1.011;exitY=0.306;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sVJ1IzAJS_69FsPv6AcG-2" target="m2XtmvnmR1rNF8-piuuE-291" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="-610" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="960" y="-560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="m2XtmvnmR1rNF8-piuuE-336" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToOne;endFill=0;" parent="1" source="m2XtmvnmR1rNF8-piuuE-160" target="m2XtmvnmR1rNF8-piuuE-311" edge="1">
+        <mxCell id="m2XtmvnmR1rNF8-piuuE-336" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToOne;endFill=0;exitDx=0;exitDy=0;" parent="1" source="sVJ1IzAJS_69FsPv6AcG-1" target="m2XtmvnmR1rNF8-piuuE-311" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1180" y="-230" />
+              <mxPoint x="980" y="-460" />
+              <mxPoint x="1210" y="-460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -674,7 +680,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m2XtmvnmR1rNF8-piuuE-291" value="Reviews" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="-120" width="180" height="210" as="geometry" />
+          <mxGeometry x="870" y="-100" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="m2XtmvnmR1rNF8-piuuE-292" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="m2XtmvnmR1rNF8-piuuE-291" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
