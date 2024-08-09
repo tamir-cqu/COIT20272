@@ -1027,7 +1027,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sVJ1IzAJS_69FsPv6AcG-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sVJ1IzAJS_69FsPv6AcG-29" target="m2XtmvnmR1rNF8-piuuE-160">
+        <mxCell id="sVJ1IzAJS_69FsPv6AcG-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="sVJ1IzAJS_69FsPv6AcG-29" target="m2XtmvnmR1rNF8-piuuE-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
